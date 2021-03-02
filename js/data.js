@@ -75,7 +75,7 @@
         },
         {
             title: 'Название карточки',
-            img: '/img3.webp',
+            img: '/img3.jpg',
             text: 'Some quick example text to build on the card title and make up the bulk of the card\'s data.',
             buttonLink: '#'
         }
